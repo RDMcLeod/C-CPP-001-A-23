@@ -7,4 +7,4 @@ int c;
         putchar (c);
         c = getChar();
     }
-}
+} 
