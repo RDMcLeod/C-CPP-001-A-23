@@ -6,7 +6,7 @@ int main()
     int lower, upper, step;
 
     lower = 0;          /*tc lower limit of temperature table */
-    upper = 2050;        /* upper limit */
+    upper = 3500;        /* upper limit */
     step = 20.5;          /*tc step size */
 
     fahr = lower;
